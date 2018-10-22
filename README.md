@@ -46,3 +46,12 @@ Credits
 =======
 
 The bug was discovered by Peter Winter-Smith of NCC Group.# libssh zero day POC
+
+=======
+DETECTION
+=======
+Hunt for CVE2018-10933 Marco Lancini (Hashes, Kabana)
+https://github.com/marco-lancini/hunt-for-cve-2018-10933
+
+libssh vulernability CVE2018-10933 scanner Leap Security 
+https://github.com/leapsecurity/libssh-scanner
