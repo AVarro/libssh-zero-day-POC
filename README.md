@@ -53,5 +53,5 @@ DETECTION
 Hunt for CVE2018-10933 Marco Lancini (Hashes, Kabana)
 https://github.com/marco-lancini/hunt-for-cve-2018-10933
 
-libssh vulernability CVE2018-10933 scanner Leap Security 
+libssh vulnerability CVE2018-10933 Scanner Leap Security 
 https://github.com/leapsecurity/libssh-scanner
